@@ -5,4 +5,5 @@ Git tracks changes of files
 Createing a new branch is quick
 Createing a new branch is quich & simple
 My name is master
+new branch dev
 
